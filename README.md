@@ -1,4 +1,4 @@
-using MERN stack (Mongo, Express, React, Node).
+using MERN stack (Mongo, Express, Node).
 
 
 ## :rocket: Tech Stack
@@ -21,7 +21,6 @@ using MERN stack (Mongo, Express, React, Node).
 - [x] Like
 - [x] Comment
 - [x] View Profile
-- [x] Light theme / Dim theme / Dark theme
 - [x] Search
 - [x] Edit Profile
 - [x] Retweet Notes
